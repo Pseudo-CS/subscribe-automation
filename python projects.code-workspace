@@ -7,6 +7,9 @@
 		{
 			"name": "Sub_renamer",
 			"path": "Sub_renamer"
+		},
+		{
+			"path": "sub_automation"
 		}
 	],
 	"settings": {}
