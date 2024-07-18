@@ -4,12 +4,12 @@ import requests
 headers = {'User-Agent': 'Bot/0.0.1'}
 
  # note that CLIENT_ID refers to 'personal use script' and SECRET_TOKEN to 'token'
-auth = requests.auth.HTTPBasicAuth('VpHbyZzC-mQrJtdL95zlow', 'uXgDh2jvaq3DK0waW1LIAndIgJ_NuQ')
+auth = requests.auth.HTTPBasicAuth('VpHbyZzC-', '')
 
 # here we pass our login method (password), username, and password
 data = {'grant_type': 'password',
-        'username': 'sazkikai',
-        'password': '7353377510'}
+        'username': '',
+        'password': ''}
 
     
 
